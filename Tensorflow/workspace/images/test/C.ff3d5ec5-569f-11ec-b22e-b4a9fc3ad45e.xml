@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>C.ff3d5ec5-569f-11ec-b22e-b4a9fc3ad45e.jpg</filename>
+	<path>C:\Users\Acer\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\C.ff3d5ec5-569f-11ec-b22e-b4a9fc3ad45e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>129</ymin>
+			<xmax>272</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
