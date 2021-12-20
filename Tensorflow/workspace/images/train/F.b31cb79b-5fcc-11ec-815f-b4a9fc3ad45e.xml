@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>F.b31cb79b-5fcc-11ec-815f-b4a9fc3ad45e.jpg</filename>
+	<path>C:\Users\Acer\Desktop\anycode\Tensorflow\workspace\images\collectedimages\F.b31cb79b-5fcc-11ec-815f-b4a9fc3ad45e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>18</ymin>
+			<xmax>640</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

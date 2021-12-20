@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>O.a650fb36-5fce-11ec-b9b0-b4a9fc3ad45e.jpg</filename>
+	<path>C:\Users\Acer\Desktop\anycode\Tensorflow\workspace\images\collectedimages\O.a650fb36-5fce-11ec-b9b0-b4a9fc3ad45e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>120</ymin>
+			<xmax>380</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

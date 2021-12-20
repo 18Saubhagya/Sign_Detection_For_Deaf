@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>U-1003.jpg</filename>
+	<path>C:\Users\Acer\Desktop\Hand_Gesture_Recognition_Sign_Detection\Tensorflow\workspace\images\collectedimages\U-1003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>50</width>
+		<height>50</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>40</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Z.e511f05a-5fd0-11ec-b9ba-b4a9fc3ad45e.jpg</filename>
+	<path>C:\Users\Acer\Desktop\anycode\Tensorflow\workspace\images\collectedimages\Z.e511f05a-5fd0-11ec-b9ba-b4a9fc3ad45e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>124</ymin>
+			<xmax>392</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
